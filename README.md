@@ -5,9 +5,11 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iago-silves&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iago-silves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    style="width: 400px; height: 200px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-silves&layout=compact&langs_count=6&theme=dark" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-silves&layout=compact&langs_count=6&theme=dark"
+    style="width: 400px; height: 200px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);" />
 
 </div>
 
