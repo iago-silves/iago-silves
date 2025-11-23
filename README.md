@@ -21,7 +21,7 @@ Tenho prática em versionamento de código com Git e GitHub, além de experiênc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,docker&perline=10&theme=dark" width="400"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,docker&perline=10&theme=dark" width="300"/>
 
 </div>
 
